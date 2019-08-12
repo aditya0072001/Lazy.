@@ -25,7 +25,7 @@
 		The best way to expose your kids to sports is through TV. Encourage them to watch different sports like tennis, soccer, baseball and basketball, by co-viewing with them  and also knows game play rules.
 		Negative Effects Of Television On Children
 		TV affects children negatively as well. Unfortunately, the adverse effects to children
-		
+		<br>
 		    • Lack of proper physical activity and too much screen time can lead to vision problems.
 			  • You cannot control what is shown on television. You may also not always be able to control what your kid watches on the TV.<br>
 			  • Early exposure to inappropriate content that has sex, alcohol, and drugs, could bring up questions in children, the answers to which may be too complicated for them to understand. The worst part is that early exposure can even give them a distorted view of these elements.<br>
