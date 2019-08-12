@@ -6,7 +6,7 @@ const app = express();
 app.use(cookieParser())
 app.use('/', serveStatic(path.join(__dirname, '/dist')));
 
-app.use('/about', serveStatic(path.join(__dirname, '/views'), (req, res) => {
+app.route('/about', serveStatic(path.join(__dirname, '/views'), (req, res) => {
     res.location('About');
 }))
 
