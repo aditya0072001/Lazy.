@@ -38,7 +38,7 @@ You cannot control what is shown on television. You may also not always be able 
         <b-media>
           <h5 class="mt-0">About the Author</h5>
             <h6>Manish Kumar,Student St.Xavier's College,Patna</h6>
-            <b-button href="#" variant="primary">Instagram</b-button>
+            <b-button href="https://instagram.com/mnsh25?igshid=mlerj62wkopk" variant="primary">Instagram</b-button>
         </b-media>
       </b-media-body>
     </b-media>
