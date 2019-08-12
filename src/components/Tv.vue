@@ -3,14 +3,12 @@
     <h1>{{ Title }}</h1>
 
      <b-media right-align vertical-align="center">
-    <b-img slot="aside" blank blank-color="#ccc" width="80" alt="placeholder"></b-img>
-
     <h5 class="mt-0 mb-1">Effect of tv series</h5>
     <p class="mb-0">
-        In the last two decades television has become the most powerful means of entertainment . 
- 		I am sure you will agree with me that T.V has become an indispensable gadget in our homes.
-		Many ads target children below 8 years as they are easily influenced by the audio -visual effects, particularly of advertisements
-		Research shows that watching television starting at a young age can profoundly affect children's development. These <b>effects</b> include obesity, language delays, and learning disabilities. Physical inactivity while viewing <b>TV</b> reduces necessary exercise and leads to over-eating.
+     In the last two decades television has become the most powerful means of entertainment . <br>
+ 		I am sure you will agree with me that T.V has become an indispensable gadget in our homes.<br>
+		Many ads target children below 8 years as they are easily influenced by the audio -visual effects, particularly of advertisements<br>
+		Research shows that watching television starting at a young age can profoundly affect children's development. These <b>effects</b> include obesity, language delays, and learning disabilities. Physical inactivity while viewing <b>TV</b> reduces necessary exercise and leads to over-eating.<br>
 		<br>
 		
 		TV is not bad. When exposed to the right shows or programs, your child can learn good things. Research indicates that television can have a positive impact on children. It can help them change their behavior and attitude for good 
