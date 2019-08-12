@@ -14,10 +14,10 @@
 		<br>
 		
 		TV is not bad. When exposed to the right shows or programs, your child can learn good things. Research indicates that television can have a positive impact on children. It can help them change their behavior and attitude for good 
-		<ul>
-		<li> A few television channels are dedicated to creating educational and informative content for the audience, especially children .</li>
-		<li>There are a few channels that broadcast only educational content covering subjects like art and craft, science, history, geography . TV is also a great medium that exposes children to different languages around the world.</li>
-		</ul>
+		 <br>
+		  • A few television channels are dedicated to creating educational and informative content for the audience, especially children .<br>
+		  • There are a few channels that broadcast only educational content covering subjects like art and craft, science, history, geography . TV is also a great medium that exposes children to different languages around the world.<br>
+	
 		<br>
 		<b>2. Entertainment</b>
 		TV is one of the primary sources of entertainment for kids. The sounds and colorful images on the screen appeal to children and also retain their attention. From movies to cartoon shows, there are several programs to keep children engaged.
@@ -27,12 +27,11 @@
 		The best way to expose your kids to sports is through TV. Encourage them to watch different sports like tennis, soccer, baseball and basketball, by co-viewing with them  and also knows game play rules.
 		Negative Effects Of Television On Children
 		TV affects children negatively as well. Unfortunately, the adverse effects to children
-		<ul>
-			<li>Lack of proper physical activity and too much screen time can lead to vision problems.</li>
-			<li>You cannot control what is shown on television. You may also not always be able to control what your kid watches on the TV.</li>
-			<li>Early exposure to inappropriate content that has sex, alcohol, and drugs, could bring up questions in children, the answers to which may be too complicated for them to understand. The worst part is that early exposure can even give them a distorted view of these elements</li>
-			<li>Movies and other television shows may exaggerate reality and create extremely violent scenes online, which may be terrifying for kids.</li>
-		</ul>
+		
+		    • Lack of proper physical activity and too much screen time can lead to vision problems.
+			  • You cannot control what is shown on television. You may also not always be able to control what your kid watches on the TV.<br>
+			  • Early exposure to inappropriate content that has sex, alcohol, and drugs, could bring up questions in children, the answers to which may be too complicated for them to understand. The worst part is that early exposure can even give them a distorted view of these elements.<br>
+			  • Movies and other television shows may exaggerate reality and create extremely violent scenes online, which may be terrifying for kids.<br>
 
     </p>
   </b-media>
