@@ -7,7 +7,7 @@ app.use(cookieParser())
 app.use('/', serveStatic(path.join(__dirname, '/dist')));
 
 app.use('/about', serveStatic(path.join(__dirname, '/views'), (req, res) => {
-    res.redirect('About');
+    res.location('About');
 }))
 
 app.get('/Tv', (req, res) => {
