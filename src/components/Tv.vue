@@ -1,48 +1,46 @@
 <template>
   <div class="hello">
     <h1>{{ Title }}</h1>
-    <b-card>
-    <b-media no-body>
-     
 
-      <b-media-body class="ml-3">
-        <h5 class="mt-0">Effect of tv series</h5>
-        <p>
-          In the last two decades television has become the most powerful means of entertainment . 
- I am sure you will agree with me that T.V has become an indispensable gadget in our homes.
-Many ads target children below 8 years as they are easily influenced by the audio -visual effects, particularly of advertisements
-Research shows that watching television starting at a young age can profoundly affect children's development. These effects include obesity, language delays, and learning disabilities. Physical inactivity while viewing TV reduces necessary exercise and leads to over-eating.
+     <b-media right-align vertical-align="center">
+    <b-img slot="aside" blank blank-color="#ccc" width="80" alt="placeholder"></b-img>
 
+    <h5 class="mt-0 mb-1">Effect of tv series</h5>
+    <p class="mb-0">
+        In the last two decades television has become the most powerful means of entertainment . 
+ 		I am sure you will agree with me that T.V has become an indispensable gadget in our homes.
+		Many ads target children below 8 years as they are easily influenced by the audio -visual effects, particularly of advertisements
+		Research shows that watching television starting at a young age can profoundly affect children's development. These <b>effects</b> include obesity, language delays, and learning disabilities. Physical inactivity while viewing <b>TV</b> reduces necessary exercise and leads to over-eating.
+		<br>
+		
+		TV is not bad. When exposed to the right shows or programs, your child can learn good things. Research indicates that television can have a positive impact on children. It can help them change their behavior and attitude for good 
+		<ul>
+		<li> A few television channels are dedicated to creating educational and informative content for the audience, especially children .</li>
+		<li>There are a few channels that broadcast only educational content covering subjects like art and craft, science, history, geography . TV is also a great medium that exposes children to different languages around the world.</li>
+		</ul>
+		<br>
+		<b>2. Entertainment</b>
+		TV is one of the primary sources of entertainment for kids. The sounds and colorful images on the screen appeal to children and also retain their attention. From movies to cartoon shows, there are several programs to keep children engaged.
+		However, make sure that the content is appropriate for your kids, based on their age and level of understanding.
+        <br>
+		<b>3. Sports</b>
+		The best way to expose your kids to sports is through TV. Encourage them to watch different sports like tennis, soccer, baseball and basketball, by co-viewing with them  and also knows game play rules.
+		Negative Effects Of Television On Children
+		TV affects children negatively as well. Unfortunately, the adverse effects to children
+		<ul>
+			<li>Lack of proper physical activity and too much screen time can lead to vision problems.</li>
+			<li>You cannot control what is shown on television. You may also not always be able to control what your kid watches on the TV.</li>
+			<li>Early exposure to inappropriate content that has sex, alcohol, and drugs, could bring up questions in children, the answers to which may be too complicated for them to understand. The worst part is that early exposure can even give them a distorted view of these elements</li>
+			<li>Movies and other television shows may exaggerate reality and create extremely violent scenes online, which may be terrifying for kids.</li>
+		</ul>
 
-TV is not bad. When exposed to the right shows or programs, your child can learn good things. Research indicates that television can have a positive impact on children. It can help them change their behavior and attitude for good 
-    • A few television channels are dedicated to creating educational and informative content for the audience, especially children .
-    • There are a few channels that broadcast only educational content covering subjects like art and craft, science, history, geography . TV is also a great medium that exposes children to different languages around the world.
-
-2. Entertainment
-TV is one of the primary sources of entertainment for kids. The sounds and colorful images on the screen appeal to children and also retain their attention. From movies to cartoon shows, there are several programs to keep children engaged.
-However, make sure that the content is appropriate for your kids, based on their age and level of understanding.
-3. Sports
-The best way to expose your kids to sports is through TV. Encourage them to watch different sports like tennis, soccer, baseball and basketball, by co-viewing with them  and also knows game play rules.
-Negative Effects Of Television On Children
-TV affects children negatively as well. Unfortunately, the adverse effects to children
-    • Lack of proper physical activity and too much screen time can lead to vision problems.
-
-You cannot control what is shown on television. You may also not always be able to control what your kid watches on the TV.
-    • Early exposure to inappropriate content that has sex, alcohol, and drugs, could bring up questions in children, the answers to which may be too complicated for them to understand. The worst part is that early exposure can even give them a distorted view of these elements
-
-    • Movies and other television shows may exaggerate reality and create extremely violent scenes online, which may be terrifying for kids.
-
-
-        </p>
-        <br />
+    </p>
+  </b-media>
         <b-media>
           <h5 class="mt-0">About the Author</h5>
-            <h6>Manish Kumar,Student St.Xavier's College,Patna</h6>
+            <h6>Manish Kumar<br>Student St.Xavier's College,Patna</h6>
             <b-button href="https://instagram.com/mnsh25?igshid=mlerj62wkopk" variant="primary">Instagram</b-button>
         </b-media>
-      </b-media-body>
-    </b-media>
-  </b-card>
   </div>
 </template>
 
