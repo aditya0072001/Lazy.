@@ -11,8 +11,10 @@
     "dependencies": {
         "bootstrap": "^4.3.1",
         "bootstrap-vue": "^2.0.0-rc.27",
+        "cookie": "^0.4.0",
         "core-js": "^2.6.5",
         "express": "^4.17.1",
+        "parser": "^0.1.4",
         "path": "^0.12.7",
         "serve-static": "^1.14.1",
         "static-serve": "0.0.1",
