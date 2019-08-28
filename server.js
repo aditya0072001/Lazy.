@@ -8,6 +8,11 @@ app.use(cookieParser());
 
 //app.use('/', serveStatic(path.join(__filename, 'public/index.html')));
 app.use('/', serveStatic(path.join(__dirname, '/dist')));
+
+app.get(/.*/, (req, res) => {
+    res.sendFile(__dirname + '/public/index.html');
+});
+
 const port = process.env.PORT || 5000;
 
 
