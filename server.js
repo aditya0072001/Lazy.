@@ -6,8 +6,8 @@ const app = express();
 
 app.use(cookieParser());
 
-app.use('/', serveStatic(path.join(__filename, 'public/index.html')));
-//app.use('/', serveStatic(path.join(__dirname, '/dist')));
+//app.use('/', serveStatic(path.join(__filename, 'public/index.html')));
+app.use('/', serveStatic(path.join(__dirname, '/dist')));
 const port = process.env.PORT || 5000;
 
 
