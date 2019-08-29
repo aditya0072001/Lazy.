@@ -7,13 +7,11 @@ const app = express();
 app.use(cookieParser());
 
 //app.use('/', serveStatic(path.join(__filename, 'public/index.html')));
-//app.use('/', serveStatic(path.join(__dirname, '/dist')));
+app.use('/', serveStatic(path.join(__dirname, '/dist')));
 
-app.use(express.static(__dirname + '/public/'));
-
-app.get(/.*/, (req, res) => {
-    res.sendFile(__dirname + '/public/index.html');
-});
+app.get('*', function (req, res) {
+    res.sendFile(__dirname + '/dist/index.html')
+})
 
 const port = process.env.PORT || 5000;
 
